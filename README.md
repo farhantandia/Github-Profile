@@ -1,7 +1,7 @@
 # Github-Profile
 ## Hi there, I'm Farhan 👋
 
-## I'm a Student, Developer, and AIoT Enthusiast!
+## I'm a Student, Developer, and AI Enthusiast!
 
 - 🔭 I’m currently working as research assistant on a Natural Inteligence of Learning Laboratory, NCTU, Taiwan
 - 🌱 I’m currently learning everything 🤣
