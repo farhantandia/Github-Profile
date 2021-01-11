@@ -1,4 +1,4 @@
-# Github-Profile
+# My Github Profile
 ## Hi there, I'm Farhan 👋
 
 ## I'm a Student, Developer, and AI Enthusiast!
