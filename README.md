@@ -42,3 +42,8 @@
 <img align="left" alt="farhantandia's Github Stats" src="https://github-readme-stats.vercel.app/api?username=farhantandia&show_icons=true&theme=radical" />
 
 ***Some Projects related computer vision, surveillance system, and IoT are still in progress***
+- Person tracking
+- Action Recognition (Wearable sensor and Image based)
+- Person Re-identification 
+- End-to-end swimming pool surveillance system
+
