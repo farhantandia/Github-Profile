@@ -40,3 +40,5 @@
 [facebook]: https://www.facebook.com/farhantandia8/
 
 <img align="left" alt="farhantandia's Github Stats" src="https://github-readme-stats.vercel.app/api?username=farhantandia&show_icons=true&theme=radical" />
+
+***Some Projects related computer vision, surveillance system, and IoT are still in progress***
