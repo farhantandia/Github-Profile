@@ -3,7 +3,7 @@
 
 ## I'm a Student, Developer, and AI Enthusiast!
 
-- 🔭 I’m currently working as research assistant on a Natural Inteligence of Learning Laboratory, NCTU, Taiwan
+- 🔭 I’m currently working as research assistant on a Nature Intelligence Learning Laboratory, NYCU, Taiwan
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other developers
 - 🥅 2020 Goals: Contribute more to Open Source projects
