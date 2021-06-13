@@ -6,7 +6,7 @@
 - 🔭 I’m currently working as research assistant on a Nature Intelligence Learning Laboratory, NYCU, Taiwan.
 - 🌱 I’m currently learning everything .
 - 👯 I’m looking to collaborate with other developers.
-- ⚡ Research Interest: Industrial automation system, IoT, machine learning and deep learning. 
+- ⚡ Research Interest: Industrial automation system, IoT, android app dev., machine learning and deep learning. 
 
 ### Connect with me:
 
